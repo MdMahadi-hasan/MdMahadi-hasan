@@ -1,7 +1,7 @@
 <h1 align="center">Tania Akter</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=PhD+Student+%7C+Quant+Researcher;ML+for+Policy+Impact+%7C+Data+Science;AI+in+Education+%7C+Behavioral+Economics" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning+%7C+Causal+Inference+%7C+Applied+Economics" alt="Typing Animation" />
 </p>
 
 <p align="center">

@@ -29,8 +29,13 @@
 
 <p align="center">
   <em>
-    Quantitative thinker. Passionate about real-world problems.<br>
-    Currently exploring <strong>financial well-being</strong>, <strong>AI in education</strong>, and <strong>behavioral data</strong>.
+    Hey, I am <strong>Mahadi</strong> — thanks for stopping by!
+
+I hold a master’s degree in Applied Economics and am currently exploring research in Industrial Organization using Machine Learning.  
+I enjoy building mathematical and statistical models that turn data into insight.
+
+You can learn more about my work and research on my <a href="https://mdmahadi-hasan.github.io/" target="_blank">website</a>.
+
   </em>
 </p>
 

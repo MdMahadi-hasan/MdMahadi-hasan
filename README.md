@@ -1,40 +1,41 @@
-<!--
-  Modern & Elegant GitHub Profile README
-  Short & concise dashboard
-  Replace placeholders (USERNAME, links, etc.)
--->
+<h1 align="center">Hi, I'm Tania 👋</h1>
 
-<div align="center">
-  <img src="https://github.com/USERNAME.png" width="100" alt="profile-picture"/>
-  
-  <h1>Hi, I'm **Tania Akter** 👋</h1>
-  <p>🎓 PhD Candidate&nbsp;&nbsp;|&nbsp;&nbsp;🔬 Researcher&nbsp;&nbsp;|&nbsp;&nbsp;📊 Data Scientist</p>
-  
-  <p>
-    <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-✉️-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/></a>
-    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-🔗-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-🐦-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="twitter"/></a>
-  </p>
-</div>
+<p align="center">
+  <i>Data Scientist | Researcher | Problem Solver</i>
+</p>
 
 ---
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent" alt="github-stats"/>
-  &nbsp;&nbsp;
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent" alt="top-langs"/>
-</div>
+### 🔍 About Me
+
+- 🎓 PhD Student | Data Science & Quantitative Research
+- 🧠 Interested in ML, Behavioral Economics, and Policy Analytics
+- 📈 Passionate about clean data, clear insights, and meaningful impact
+- 🛠️ Tools: Python, R, SQL, Stata, LaTeX, Git
 
 ---
 
-<div align="center">
-  <h3>🚀 Featured Project</h3>
-  <p align="center">
-    <a href="https://github.com/USERNAME/REPO_NAME">
-      <img src="https://img.shields.io/badge/REPO_NAME-Repository-blue?style=for-the-badge&logo=github&logoColor=white" alt="project-badge"/>
-    </a>
-  </p>
-  <p align="center">One‑line description of your project highlighting its core feature.</p>
-</div>
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-333?style=flat&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_title=true&hide_rank=true" width="400" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---

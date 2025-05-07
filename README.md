@@ -1,41 +1,44 @@
-<h1 align="center">Hi, I'm Tania 👋</h1>
-
-<p align="center">
-  PhD Student | Data Science & Social Research | Python • R • Stata
-</p>
+<h2 align="center">👋 Hi, I'm Tania</h2>
+<p align="center">PhD Student • Data & Stats Enthusiast • Researching Financial Well-being</p>
 
 ---
 
-### 🔍 Current Interests
-- Financial well-being across age and gender  
-- Survey data analysis (Add Health, NCHA, etc.)  
-- Machine learning & causal inference
+### 🚀 About Me
+
+- 🔬 Exploring how age & gender affect financial well-being  
+- 📊 Skilled in Python, R, Stata & survey data (e.g., Add Health, NCHA)  
+- 🧠 Interested in statistical modeling, causal inference, and social outcomes  
 
 ---
 
-### ⚙️ Tools & Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Stata](https://img.shields.io/badge/-Stata-27408B?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+### 🧰 Tools & Tech
+
+Python · R · Stata · SQL · Pandas · Scikit-learn · GitHub
 
 ---
 
 ### 📌 Projects
-- **Financial Well-being Analysis** – Life-course & gender-based insights from national surveys  
-- **Mental Health ML** – Predictive modeling on student mental health outcomes  
-- **Survey Data Tools** – Streamlined variable explorer for large survey datasets
+
+- **Financial Well-being Across Life Stages**  
+  Statistical analysis of national datasets with focus on gendered financial stress  
+  _Python · STATA · Survey Data_
+
+- **Survey Explorer App**  
+  Streamlit tool to browse mental health variables across datasets  
+  _Python · Streamlit_
 
 ---
 
 ### 📈 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taniaakter&show_icons=true&hide=contribs&theme=react" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniaakter&layout=compact&theme=react" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=taniaakter&show_icons=false&hide_border=true&theme=calm" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniaakter&layout=compact&hide_border=true&theme=calm" width="48%" />
 </p>
 
 ---
 
-### 🌐 Reach Me
-[LinkedIn](https://linkedin.com/in/taniaakter) · [Email](mailto:taniaakter@email.com)
+### 🌐 Connect
+
+[LinkedIn](https://linkedin.com/in/taniaakter) • [Email](mailto:taniaakter@email.com)
+

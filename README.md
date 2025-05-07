@@ -53,7 +53,9 @@
 ### 📊 Language Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=compact&langs_count=6&theme=default" alt="Most Used Languages" />
+  <img src="https://img.shields.io/badge/Python-60%25-blue?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-20%25-gray?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-10%25-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-10%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-
 

@@ -55,3 +55,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=compact&langs_count=6&theme=default" alt="Most Used Languages" />
 </p>
+---
+
+### 📊 Language Pie Chart
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmahadi-hasan&theme=github_dark" />
+</p>

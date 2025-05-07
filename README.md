@@ -50,3 +50,8 @@
 </p>
 
 ---
+### 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=compact&langs_count=6&theme=default" alt="Most Used Languages" />
+</p>

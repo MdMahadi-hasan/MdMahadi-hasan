@@ -6,8 +6,6 @@
 </p>
 
 ---
-<h1 align="center">Hey, This is Mahadi. Thank you, for your interest.</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Causal+Inference+%7C+Applied+Economics" alt="Typing Animation" />
 </p>

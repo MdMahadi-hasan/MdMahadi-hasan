@@ -1,4 +1,4 @@
-<h1 align="center">Tania Akter</h1>
+<h1 align="center">Mahadi Hasan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Causal+Inference+%7C+Applied+Economics" alt="Typing Animation" />
@@ -50,28 +50,10 @@
 </p>
 
 ---
-### 📊 Most Used Languages
+### 📊 Language Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=compact&langs_count=6&theme=default" alt="Most Used Languages" />
 </p>
----
 
-### 📊 Language Pie Chart
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmahadi-hasan&theme=github_dark" />
-</p>
----
-### 📊 Real-Time Language Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=donut&hide_border=true&langs_count=6&theme=chartreuse-dark" />
-</p>
----
-### 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=donut&langs_count=6&hide_border=true&bg_color=00000000" alt="Most Used Languages" />
-</p>
 

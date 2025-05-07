@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tania 👋</h1>
+<h1 align="center">Hi, I'm Mahadi 👋</h1>
 <p align="center">
   🎓 PhD Student | 📊 Data Science Enthusiast | 💡 Curious Researcher<br>
   Passionate about turning data into actionable insights.

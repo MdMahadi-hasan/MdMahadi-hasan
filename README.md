@@ -14,6 +14,9 @@
   <a href="https://github.com/your-username">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
+  <a href="https://mdmahadi-hasan.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---

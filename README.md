@@ -68,3 +68,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=donut&hide_border=true&langs_count=6&theme=chartreuse-dark" />
 </p>
+---
+### 📊 Real-Time Language Usage
+
+<p align="center">
+  <img src="languages.svg" width="400" alt="GitHub Language Usage Chart" />
+</p>

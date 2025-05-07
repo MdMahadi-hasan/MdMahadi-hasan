@@ -46,18 +46,6 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
----
-
-### 📌
-
-<p align="center">
-  <em>
-    “Data! data! data!” he cried impatiently. I can’t make bricks without clay.<br>
-    —— <strong>Sherlock Holmes</strong> (By Sir Arthur Conan Doyle)
-  </em>
-</p>
-
----
 ### 📊 Language Stats
 
 <p align="center">
@@ -66,4 +54,7 @@
   <img src="https://img.shields.io/badge/Jupyter-10%25-orange?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-10%25-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+
+
+
 

@@ -62,3 +62,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdmahadi-hasan&theme=github_dark" />
 </p>
+---
+### 📊 Real-Time Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=donut&hide_border=true&langs_count=6&theme=chartreuse-dark" />
+</p>

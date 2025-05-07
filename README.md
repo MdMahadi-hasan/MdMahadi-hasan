@@ -1,4 +1,4 @@
-<h1 align="center">Mahadi Hasan</h1>
+<h1 align="center">Tania Akter</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Causal+Inference+%7C+Applied+Economics" alt="Typing Animation" />
@@ -30,7 +30,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,github,r,sql" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,github,r" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---

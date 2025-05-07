@@ -1,44 +1,32 @@
-<h2 align="center">👋 Hi, I'm Tania</h2>
-<p align="center">PhD Student • Data & Stats Enthusiast • Researching Financial Well-being</p>
-
----
-
-### 🚀 About Me
-
-- 🔬 Exploring how age & gender affect financial well-being  
-- 📊 Skilled in Python, R, Stata & survey data (e.g., Add Health, NCHA)  
-- 🧠 Interested in statistical modeling, causal inference, and social outcomes  
-
----
-
-### 🧰 Tools & Tech
-
-Python · R · Stata · SQL · Pandas · Scikit-learn · GitHub
-
----
-
-### 📌 Projects
-
-- **Financial Well-being Across Life Stages**  
-  Statistical analysis of national datasets with focus on gendered financial stress  
-  _Python · STATA · Survey Data_
-
-- **Survey Explorer App**  
-  Streamlit tool to browse mental health variables across datasets  
-  _Python · Streamlit_
-
----
-
-### 📈 GitHub Snapshot
-
+<!-- START HEADER -->
+<h1 align="center">👋 Hi, I'm Tania</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taniaakter&show_icons=false&hide_border=true&theme=calm" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniaakter&layout=compact&hide_border=true&theme=calm" width="48%" />
+  🎓 PhD Student • 📊 Data Science • 💡 Financial Well‑being Research
+</p>
+<!-- END HEADER -->
+
+<!-- STATS & LANGUAGES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taniaakter&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniaakter&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
----
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+</p>
 
-### 🌐 Connect
+<!-- FEATURED -->
+<p align="center">
+  🔭 <strong>Featured:</strong>
+  <a href="https://github.com/taniaakter/financial-wellbeing">Financial Well‑being Study</a> ·
+  <a href="https://github.com/taniaakter/survey-explorer">Survey Explorer</a>
+</p>
 
-[LinkedIn](https://linkedin.com/in/taniaakter) • [Email](mailto:taniaakter@email.com)
-
+<!-- CONTACT -->
+<p align="center">
+  📫 <a href="https://www.linkedin.com/in/taniaakter">LinkedIn</a> ·
+  ✉️ <a href="mailto:taniaakter@email.com">Email</a>
+</p>

@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**MdMahadi-hasan/MdMahadi-hasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahadi. I play with statistical and mathematical model. 
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Connect with me
+[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourwebsite.com) | [Twitter](https://twitter.com/yourhandle)
+
+---
+
+### 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+
+---
+
+### 📌 Pinned Projects
+
+Here are a few highlights:
+
+- 🔍 [**Data Science Interview Resources**](https://github.com/yourusername/repo-name): Curated resources to prep for DS interviews.
+- 📈 [**Stock Price Prediction using SVM**](https://github.com/yourusername/repo-name): Forecasting Reliance stock prices using SVM.
+- 📊 [**Dual Moving Average Strategy**](https://github.com/yourusername/repo-name): Backtesting a crossover strategy using Python.
+
+---
+
+### 📉 Contributions
+<!-- GitHub generates this automatically -->

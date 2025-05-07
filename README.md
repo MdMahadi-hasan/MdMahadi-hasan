@@ -69,9 +69,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=donut&hide_border=true&langs_count=6&theme=chartreuse-dark" />
 </p>
 ---
-### 📊 My Most Used Languages
+### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=donut&hide=html,css&langs_count=6&theme=calm&border_radius=12" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahadi-hasan&layout=donut&theme=graywhite&hide_border=true" alt="Top Languages by GitHub" />
 </p>
-
